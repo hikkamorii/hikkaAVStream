@@ -1,3 +1,8 @@
+# **! This repository is discontinued due to having no relevance as of 2024 !**
+- This script likely will not work on modern mainstream distros due to them slowly transitioning to PipeWire and Wayland.
+- There is no point in that script as offcial Discord client is now way more capable on Linux comparing to how it was before, and having alternatives like Vesktop that provides lots of additional features.
+- If neither of the 2 options above work for you, you can also use web version via Chromium, though I've heard that the quality is not great.
+
 # hikkaAVStream
 Allows you to bypass discords' limitations on streaming with linux. With hikkaAVStream you can stream one of your monitors if you have dual screen setup, while also streaming audio.
 
